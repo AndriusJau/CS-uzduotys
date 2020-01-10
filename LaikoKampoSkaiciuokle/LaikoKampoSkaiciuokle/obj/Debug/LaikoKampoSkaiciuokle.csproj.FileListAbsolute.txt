@@ -1,0 +1,7 @@
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\bin\Debug\LaikoKampoSkaiciuokle.exe.config
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\bin\Debug\LaikoKampoSkaiciuokle.exe
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\bin\Debug\LaikoKampoSkaiciuokle.pdb
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\obj\Debug\LaikoKampoSkaiciuokle.csprojAssemblyReference.cache
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\obj\Debug\LaikoKampoSkaiciuokle.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\obj\Debug\LaikoKampoSkaiciuokle.exe
+C:\Users\I\source\repos\LaikoKampoSkaiciuokle\LaikoKampoSkaiciuokle\obj\Debug\LaikoKampoSkaiciuokle.pdb
